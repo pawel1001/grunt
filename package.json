@@ -1,0 +1,22 @@
+{
+  "name": "kodilla-grunt",
+  "version": "1.0.0",
+  "description": "kodilla-grunt",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "kodilla-grunt"
+  ],
+  "author": "PJ",
+  "license": "ISC"
+}
